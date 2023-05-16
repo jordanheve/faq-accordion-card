@@ -49,7 +49,7 @@ body {
 }
 
 .main-container__s1__img--shadow {
-    content: url(/images/bg-pattern-mobile.svg);
+    content: url(../images/bg-pattern-mobile.svg);
     width: 20em;
     margin: -6em auto 0;
 }
@@ -85,7 +85,7 @@ body {
 }
 
 .main-container__s2__details__summary--arrow {
-    content: url(/images/icon-arrow-down.svg);
+    content: url(../images/icon-arrow-down.svg);
     position: absolute;
     right: 0;
     top: .42em;
@@ -120,7 +120,7 @@ body {
         width: 77em;
         display: flex;
         padding: 0;
-        background-image: url(/images/bg-pattern-desktop.svg);
+        background-image: url(../images/bg-pattern-desktop.svg);
         background-repeat: no-repeat;
         background-position: -44em -24em;
         background-size: cover;
@@ -146,14 +146,14 @@ body {
     }
 
     .main-container__s1__img {
-        content: url(/images/illustration-woman-online-desktop.svg);
+        content: url(../images/illustration-woman-online-desktop.svg);
         width: auto;
         margin: 0;
         margin-left: -12em;
         
     }
     .main-container::before {
-        content: url(/images/illustration-box-desktop.svg);
+        content: url(../images/illustration-box-desktop.svg);
         position: absolute;
         left: -10%;
         top: 40%;

@@ -8,8 +8,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/jordanheve/faq-accordion-card)
+- [Live site URL](https://jordanheve.github.io/faq-accordion-card)
 
 
 ### Built with
